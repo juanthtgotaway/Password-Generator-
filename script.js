@@ -39,6 +39,7 @@ function generatePassword() {
 
   var password= "";
 
+  //Randomizer equation:
   for (var i = 0; i < passwordLength; i++) {
     var randomIndex = Math.floor (Math.random() * all.length);
     password += all [randomIndex];
