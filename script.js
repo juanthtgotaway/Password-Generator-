@@ -8,6 +8,11 @@ function generatePassword() {
   if (passwordLength < 8 || passwordLength > 128) {
     alert ("Password must be from 8-128.")
   }
+
+  var haveLowercase = confirm ("Would you like to have Lowercase characters?");
+  var haveUppercase = confirm ("would you like to have Uppercase characters?");
+  var haveNumbers = confirm ("Would you like to have numbers?");
+  var haveSpecial = confirm ("would you like to have special characters?");
 }
 
 
