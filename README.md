@@ -2,7 +2,7 @@
 ![alt text](./assets/img/Landing.png)
 
 ## Description 
-In this project I had to test my knowledge thus far and see if I could create a password generator with the pre existing information provided. This application was mainly focused around JSS; thus mainly I learned ALOT on this coding language. THe main three points I learned are as follows: 
+In this project I had to test my knowledge thus far and see if I could create a password generator with the pre existing information provided. This application was mainly focused around JSS; thus mainly I learned ALOT on this coding language. THe main two main points I learned are as follows: 
 <br>
 
 **Spelling/Order matters** When starting off I was not super aware of how important spelling is in JS. I would add one line such as the promts. I would use different spelling and would wonder why it didnt work when trying to run the application. Thus I realized how important capitalizing the second part of the Var name to make sure it can be identified properly later on. Additionally this doesnt just matter on words but also on ";", "if statement" order, "()". All these thigns matter as they located in the "FUNCTION: Generate passowrd" my website would not run unless everything was properly spelt/closed on the js file. The order of items also matters I had originally listed my Vars above the function and for some reason the code was not reading the inputs and selections. Until I placed those inside the function we are solving for then it worked! So importance on where the items are!
